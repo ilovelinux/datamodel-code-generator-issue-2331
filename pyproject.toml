@@ -1,0 +1,5 @@
+[tool.datamodel-codegen]
+# Options
+input = "test_1/"
+input-file-type = "jsonschema"
+output = "outputs/"

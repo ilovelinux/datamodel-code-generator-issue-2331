@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/products.json",
+  "title": "Products",
+  "description": "The products in the catalog",
+  "$ref": "commons.json#/$defs/defaultArray"
+}
